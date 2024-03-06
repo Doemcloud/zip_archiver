@@ -1,0 +1,3 @@
+C:/Users/Cote/CLionProjects/zip-archiver/build/CMakeFiles/zip_archiver.dir
+C:/Users/Cote/CLionProjects/zip-archiver/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Cote/CLionProjects/zip-archiver/build/CMakeFiles/ZERO_CHECK.dir
